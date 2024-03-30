@@ -1,6 +1,6 @@
-##Demos 
-![]('output/plots/airplane validation set.png')
+##Demos
+![](output/plots/airplane validation set.png)
 
-![]('output/plots/face validation set.png')
+![](output/plots/face validation set.png)
 
-![]('output/plots/motorcycle validation set.png')
+![](output/plots/motorcycle validation set.png)
