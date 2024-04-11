@@ -1,6 +1,6 @@
 ## Demos
-![](output/plots/airplane validation set.png)
+![](output/plots/airplane_validation_set.png)
 
-![](output/plots/face validation set.png)
+![](output/plots/face_validation_set.png)
 
-![](output/plots/motorcycle validation set.png)
+![](output/plots/motorcycle_validation_set.png)
