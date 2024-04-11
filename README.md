@@ -1,4 +1,4 @@
-##Demos
+## Demos
 ![](output/plots/airplane validation set.png)
 
 ![](output/plots/face validation set.png)
